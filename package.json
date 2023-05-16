@@ -1,0 +1,22 @@
+{
+  "name": "avoid-the-obstacles-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buuraak/avoid-the-obstacles-game.git"
+  },
+  "author": "Burak Baykara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buuraak/avoid-the-obstacles-game/issues"
+  },
+  "homepage": "https://github.com/buuraak/avoid-the-obstacles-game#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
